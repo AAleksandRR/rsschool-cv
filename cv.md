@@ -1,9 +1,9 @@
- [rsschool-cv](https://AAleksandRR.github.io/rsschool-cv/cv)
-=================================================
- Alexander Vertinsky
-=================================================
- student of rs programming school
-=================================================
+ # [rsschool-cv](https://AAleksandRR.github.io/rsschool-cv/cv)
+
+# Alexander Vertinsky
+ 
+### student of rs programming school
+
 #### Contact information: ####
  + **Phone:** +375257799970
  + **E-mail:** oliod1@rambler.ru
